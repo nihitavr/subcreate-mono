@@ -1,0 +1,6 @@
+[submodule "subcreate"]
+	path = subcreate
+	url = https://github.com/nihitavr/subcreate.git
+[submodule "subcreate-backend"]
+	path = subcreate-backend
+	url = https://github.com/nihitavr/subcreate-backend.git
