@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start:dev": "concurrently \"cd subcreate && npm run dev\" \"cd subcreate-backend && npm run start:dev\""
+  },
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
