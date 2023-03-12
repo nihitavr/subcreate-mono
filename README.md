@@ -1,2 +1,3 @@
 # subcreate-mono
-This is monorepo for subcreate
+
+How to install package?
